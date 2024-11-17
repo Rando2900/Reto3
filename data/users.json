@@ -1,0 +1,13 @@
+[
+    {
+      "username": "john_doe",
+      "password": "123456",
+      "ownedCopies": [101]
+    },
+    {
+      "username": "jane_doe",
+      "password": "abcdef",
+      "ownedCopies": [102, 201]
+    }
+  ]
+  

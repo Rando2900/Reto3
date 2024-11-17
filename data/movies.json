@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "year": 1994,
+      "description": "Two imprisoned men bond over a number of years...",
+      "director": "Frank Darabont",
+      "copies": [
+        { "id": 101, "status": "available", "format": "DVD" },
+        { "id": 102, "status": "rented", "format": "Blu-ray" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "year": 1972,
+      "description": "The aging patriarch of an organized crime dynasty...",
+      "director": "Francis Ford Coppola",
+      "copies": [
+        { "id": 201, "status": "available", "format": "Digital" }
+      ]
+    }
+  ]
+  
